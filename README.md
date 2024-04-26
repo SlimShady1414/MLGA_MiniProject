@@ -13,4 +13,5 @@ pip install -r requirements.txt
 
 3. Run the trial.py file.
 ```bash
-streamlit run trial.py```
+streamlit run trial.py
+```
