@@ -1,7 +1,7 @@
 
 # MLGA Mini Project - Recommending courses in MOOC platforms
 
-## Installation(ChatBot_PDF)
+## Installation
 
 1. Clone the repository and change to project directory.
 
